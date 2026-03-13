@@ -18,8 +18,15 @@ cv:
         start_date: 2022
         end_date: 2026
         score: "3.98"
-        courses: "Measure Theory", "Functional Analysis", "Stochastic Processes", "Modes of Convergence", "Group Theory", "Field/Galois/Representation Theory", "Differential Geometry", "Topology"
-
+        courses: 
+        - "Measure Theory"
+        - "Functional Analysis"
+        - "Stochastic Processes"
+        - "Modes of Convergence"
+        - "Group Theory"
+        - "Field/Galois/Representation Theory"
+        - "Differential Geometry"
+        - "Topology"
     Experience:
       - company: University of California, Santa Barbara
         position: Student Researcher
@@ -52,8 +59,11 @@ cv:
     Interests:
       - name: Mathematics
         icon: fa-solid fa-tag
-        keywords: "Analysis", "Optimal Transport", "Optimization"
-
+        keywords: 
+        - "Analysis"
+        - "Optimal Transport"
+        - "Optimization"
+        - "Stochastic Processes"
     Projects:
       - name: Conditional Expectation and Measure Theoretic Markov Chains
         summary: Final project for Randomized Algorithms class which proved Conditional Expectation using Radon-Nikodym and presented various results about general state space Markov chains.
