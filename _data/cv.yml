@@ -38,16 +38,16 @@ cv:
       - company: Cisco
         position: Software Engineer Intern
         location: San Jose, CA
-        start_date: June 2024
-        end_date: September 2024
+        start_date: 6/24
+        end_date: 9/24
         summary: Cleaned nonstandardized error logs and collated them into an Elastic database.
 
 
       - company: PeerNova
         position: Data Analyst Intern
         location: San Jose, CA
-        start_date: July 2023
-        end_date: September 2023
+        start_date: 7/23
+        end_date: 9/23
         summary: Performed statistical analysis to create a tool which provided companies insights into how their asset evaluations compared with competitors.
     
     Awards:
