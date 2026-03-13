@@ -209,6 +209,14 @@ exclude:
   - _pages/profiles.md
   - _pages/publications.md
   - _pages/repositories.md
+  - _pages/projects/2_project.md
+  - _pages/projects/3_project.md
+  - _pages/projects/4_project.md
+  - _pages/projects/5_project.md
+  - _pages/projects/6_project.md
+  - _pages/projects/7_project.md
+  - _pages/projects/8_project.md
+  - _pages/projects/9_project.md
 keep_files:
   - CNAME
   - .nojekyll
